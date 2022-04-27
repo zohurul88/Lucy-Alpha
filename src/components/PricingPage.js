@@ -6,7 +6,9 @@ function PricingPage() {
       <header className="App-header">
         <MainMenu />
       </header>
+      {/* Strat from here */}
       Pricing Page
+      {/* End here */}
     </div>
   );
 }

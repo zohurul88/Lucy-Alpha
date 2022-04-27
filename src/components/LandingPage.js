@@ -5,8 +5,10 @@ function LandingPage() {
     <div className="landing">
       <header className="App-header">
         <MainMenu />
-      </header>
+      </header> 
+      {/* Strat from here */}
       Landing Page
+      {/* End here */}
     </div>
   );
 }

@@ -6,7 +6,9 @@ function LoginPage() {
       <header className="App-header">
         <MainMenu />
       </header>
-      Loging Page
+      {/* Strat from here */}
+      Login page
+      {/* End here */}
     </div>
   );
 }
