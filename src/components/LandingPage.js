@@ -1,13 +1,14 @@
 import MainMenu from "./common/MainMenu";
 
-function App() {
+function LandingPage() {
   return (
-    <div className="App">
+    <div className="landing">
       <header className="App-header">
         <MainMenu />
       </header>
+      Landing Page
     </div>
   );
 }
 
-export default App;
+export default LandingPage;
