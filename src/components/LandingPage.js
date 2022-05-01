@@ -1,4 +1,5 @@
 import MainMenu from "./common/MainMenu";
+import { Container } from "reactstrap";
 
 function LandingPage() {
   return (
@@ -6,7 +7,9 @@ function LandingPage() {
       <header className="App-header">
         <MainMenu />
       </header>
-      Landing Page
+      <Container>
+        This is a test commit
+      </Container>
     </div>
   );
 }
