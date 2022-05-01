@@ -6,7 +6,7 @@ function PricingPage() {
       <header className="App-header">
         <MainMenu />
       </header>
-      Pricing Page
+      Pricing Page .....
     </div>
   );
 }
