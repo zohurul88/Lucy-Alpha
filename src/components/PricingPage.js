@@ -7,6 +7,7 @@ function PricingPage() {
         <MainMenu />
       </header>
       Pricing Page
+      started
     </div>
   );
 }
