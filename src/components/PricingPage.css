@@ -1,11 +1,12 @@
+#top-close{
+    text-align: right;
+}
 .background{
     background: #392381;
     background-image: url(../images/img-najmul.svg) ;
     background-repeat: no-repeat;
     background-position: right top;
     padding-bottom: 7%;
-    
-    
 }
 .checked-color{
     color: #0CC215;
@@ -14,14 +15,14 @@
     background: rgba(255, 255, 255, 0.1);
     border: 2px solid rgba(255, 255, 255, 0.12);
     box-sizing: border-box;
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(3px);
     border-radius: 14px;
 }
 .back-drop-card{
     background: rgba(255, 255, 255, 0.1);
     border: 2px solid rgba(255, 255, 255, 0.12);
     box-sizing: border-box;
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(1px);
     border-radius: 14px;
     height: 500px;
 }

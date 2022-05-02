@@ -9,7 +9,11 @@ function PricingPage() {
         <MainMenu />
       </header>
       <div className="container  my-5 mb-5"  id="back-drop">
-          <div className="text-center text-white my-5">
+        <div id="top-close">
+        <button type="button" className="btn-close bg-light rounded-circle m-4"   aria-label="Close"></button>
+        </div>
+
+          <div className="text-center text-white my-2">
             <p className="h1">Simple & Transparent Pricing</p>
             <p>No surprise fees.</p>
             <p className="d-flex justify-content-center"><span>Billed yearly</span>
