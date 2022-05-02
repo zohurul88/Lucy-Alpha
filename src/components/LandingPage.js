@@ -6,7 +6,7 @@ function LandingPage() {
       <header className="App-header">
         <MainMenu />
       </header>
-      Landing Page
+      Landing Page...
     </div>
   );
 }
