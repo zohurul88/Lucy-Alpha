@@ -1,0 +1,11 @@
+.background{
+    background: #392381;
+    background-image: url(../images/img-najmul.svg)  ;
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    
+}
+.checked-color{
+    color: #0CC215;
+}
