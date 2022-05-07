@@ -1,6 +1,6 @@
 import MainMenu from "./common/MainMenu";
 import './PricingPage.css'
-import { Fa500Px,FaRegTired, AiFillCheckCircle, AiOutlineCheckSquare, BsCheckCircle, BsCheck2Circle, FaCheckSquare } from "react-icons/fa";
+import {FaCheckSquare } from "react-icons/fa";
 
 function PricingPage() {
   return (
