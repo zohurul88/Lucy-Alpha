@@ -1,0 +1,61 @@
+body{
+    background: #392381;
+    font-family: 'Poppins', sans-serif;
+    background-position: right top;
+    background-image: url(../images/img-nokshi.svg);
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+   
+}
+.card{
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 640px;
+    height: 450px;
+    border-radius: 12px;
+    margin-left: 410px;
+    margin-right: 420px; 
+}
+#back-drop{
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    box-sizing: border-box;
+    backdrop-filter: blur(3px);
+    border-radius: 14px;
+}
+.Logo{
+    margin-left: 75px;
+    margin-top: 25px;
+    width: 60px;
+    height: 60px;
+}
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
+}
+#btn1{
+    background-color: #765EDC;
+    padding: 13px;
+    border-radius: 10px;
+    border:solid 1px #FFFFFF1A;
+    color: white;  
+}
+
+#btn2{
+    background-color: rgba(255, 255, 255, 0.1) ;
+    margin-left: 30px;
+    padding: 13px;
+    border-radius: 10px;
+    border:solid 1px #ffffff42;
+    color: white; 
+}
+.img-fluid{
+    width: 230px; 
+}
+.card-body{
+    margin-right: 50px;
+}
+
