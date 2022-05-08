@@ -1,5 +1,5 @@
 import MainMenu from "./common/MainMenu";
-import './PricingPage.css'
+import './PricingPage.css';
 import {FaCheckSquare } from "react-icons/fa";
 
 function PricingPage() {
