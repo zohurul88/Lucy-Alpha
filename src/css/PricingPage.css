@@ -26,3 +26,12 @@
     border-radius: 14px;
     height: 500px;
 }
+.p-checkbox{
+    display: inline-block;
+    width: 20px;
+}
+.p-checkbox + span{
+    display: inline-block;
+    margin-left: 20px;
+    width: 280px;
+}
