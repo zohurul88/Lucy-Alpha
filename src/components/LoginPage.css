@@ -1,0 +1,27 @@
+#back-side{
+    background: #392381;
+    background-image: url(../images/login-najmul.svg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    padding-bottom: 19%;
+    position: relative;
+}
+.btn1{
+    background-color: #765EDC;
+    padding: 13px;
+    border-radius: 10px;
+    border:solid 1px #FFFFFF1A;
+    color: white;  
+}
+#login-border{
+    background: rgba(255, 255, 255, 0.1);
+    border: 2px solid rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(16px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 24px;
+}
+#anchor{
+    margin-left: 150px;
+    color: white;
+    text-decoration: none;
+}
