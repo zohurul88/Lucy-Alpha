@@ -1,5 +1,5 @@
 import MainMenu from "./common/MainMenu";
-import './LoginPage.css';
+import '../css/LoginPage.css';
 import Logo from '../images/luchy-logo-n.png';
 
 
