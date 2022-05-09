@@ -1,6 +1,6 @@
 import MainMenu from "./common/MainMenu";
-import "./LandingPage.css";
-import Logo from '..//images/Lucy\ Logo.png';
+import "../css/LandingPage.css";
+import Logo from '../images/lucy-logo.png';
 
 function LandingPage() {
   return (
@@ -8,7 +8,7 @@ function LandingPage() {
       <header className="App-header">
         <MainMenu />
       </header>
-      <div id="back-drop" className="card mb-4 mt-5 h-15">
+      <div id="back-drop" className="landing card mb-4 mt-5 h-15">
           <div className="Logo">
             <img src={Logo}  alt="Logo"/>
           </div>
